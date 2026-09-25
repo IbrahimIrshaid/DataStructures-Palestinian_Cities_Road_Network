@@ -216,7 +216,7 @@ void displayMainMenu()
 }
 
 int main() {
-    int op;
+    int op = 0;
     while (op != 5) {
 
         displayMainMenu();
